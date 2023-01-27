@@ -4,9 +4,9 @@ const chalk = require('chalk')
 
 global.botname = "Akuma" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
+global.author =  
 global.packname = "Akuam"  
-global.myweb = "https://github.com/" // You can put any link 
+global.myweb = "https://github.com/Ra3ya00" // You can put any link 
 global.waterMark = "×͜×Akuam" // Your own watermark 
 global.headerText = "Akuma by rayan" // text for header of menu         
 global.DocumentTitle = "MASTER⚔️PIKA" 
